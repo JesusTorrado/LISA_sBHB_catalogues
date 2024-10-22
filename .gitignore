@@ -1,0 +1,10 @@
+# Backups
+*~
+\#*
+.\#*
+
+# OS-specific
+.directory
+
+# Python and packaging
+.ipynb_checkpoints/
