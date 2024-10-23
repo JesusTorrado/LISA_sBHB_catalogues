@@ -26,8 +26,6 @@ Some of the plots in the notebook require the `extrapops` simulation package:
     $ cd extrapops
     $ pip install .
 
-There is an additional notebook, `PaperFigures.ipynb`, containing the precise code for the plots in the first of the publications below. 
-
 ## References
 
 For details, see, and cite accordingly:
