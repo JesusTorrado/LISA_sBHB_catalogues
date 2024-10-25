@@ -1,8 +1,10 @@
 # Catalogues of LISA-detectable sBHB inspirals and confusion backgrounds following the GWTC-3 fiducial model posterior
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13974091.svg)](https://doi.org/10.5281/zenodo.13974091)
+
 ## Data set
 
-The contents of `SNR_min_2_z1_LISA_SNR.tar.gz` consist of approximately 10k folders, each corresponding to each of the samples of the public GWTC-3 fiducial sBHB population model posterior, and containing the following files:
+The contents of `SNR_min_2_z1_LISA_SNR.tar.gz` (see Zenodo DOI image link above) consist of approximately 10k folders, each corresponding to each of the samples of the public GWTC-3 fiducial sBHB population model posterior, and containing the following files:
 
 - `population.yaml`: population parameters of this sample.
 - `background.txt`: frequencies and characteristic strain squared of the sBHB confusion noise in the LISA band for this population.
@@ -34,7 +36,7 @@ For details, see, and cite accordingly:
 
 *Stellar-mass black-hole binaries in LISA: characteristics and complementarity with current-generation interferometers*,<br>
 R. Buscicchio, J. Torrado, C. Caprini, G. Nardini, N. Karnesis, M. Pieroni, A. Sesana
-Submitted to JCAP, [arXiv:XXXX.YYYYY [astro-ph.CO]](https://arxiv.org/abs/XXXX.YYYYY)
+Submitted to JCAP, [arXiv:2410.18171 [astro-ph.HE]](https://arxiv.org/abs/2410.18171)
 
 #### Confusion background:
 
